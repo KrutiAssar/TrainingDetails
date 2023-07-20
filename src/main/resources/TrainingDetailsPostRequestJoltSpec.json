@@ -24,7 +24,8 @@
 					"certificateNameOrAward": "certificateNameOrAward",
 					"grade": "grade"					
 				},
-				"comments": "comments"				
+				"comments": "comments",
+				"guestLectureAttended": "guestLectureAttended"				
 			}
 		}
 	}

@@ -93,4 +93,7 @@ public class Training {
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = Constants.TIMESTAMP_PATTERN, timezone = Constants.TIMEZONE_ASIA)
     @Column(name = "creation_timestamp")
     private Timestamp creationTimestamp;
+    
+    @Column(name = "guest_lecture_attended")
+    private String guestLectureAttended;
 }

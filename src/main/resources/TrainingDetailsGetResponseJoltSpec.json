@@ -22,7 +22,8 @@
 			"grade": "training.trainingOutput.grade",	
 			"comments": "training.comments",
 			"lastUpdateTimestamp": "training.lastUpdateTimestamp",
-			"creationTimestamp": "training.creationTimestamp"
+			"creationTimestamp": "training.creationTimestamp",
+			"guestLectureAttended": "training.guestLectureAttended"
 		}
 	}
 ]

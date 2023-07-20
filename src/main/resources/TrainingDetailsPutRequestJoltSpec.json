@@ -27,7 +27,8 @@
 				},
 				"comments": "comments",
 				"lastUpdateTimestamp": "lastUpdateTimestamp",
-				"creationTimestamp": "creationTimestamp" 				
+				"creationTimestamp": "creationTimestamp",
+				"guestLectureAttended": "guestLectureAttended"				
 			}
 		}
 	}
